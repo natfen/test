@@ -25,3 +25,18 @@ li a:link{
 li a:visited{
   color:yellow;
 }
+
+.title {
+  margin-left:35em;
+  margin-right:35em;
+  margin-top:2em;
+  margin-bottom: 2em;
+  color: white;
+}
+
+.text {
+  margin-left:20em;
+  margin-right:20em;
+  margin-top:2em;
+  margin-bottom: 2em;
+}
